@@ -1,5 +1,7 @@
 Node-mjpeg-proxy
 
-This is a simple implementation of a mjpeg proxy written with node.js
+This is a simple implementation of a mjpeg proxy written with node.js.
+
+Please note more is to come, I'm still changing my head from SVN to GIT sorry for the delay
 
 -Phil Rene
