@@ -21,11 +21,13 @@ Returns: a `Proxy` instance.
 Arguments:
 
 - *sourceURL*
-  The source URL of the video feed to be proxied.
+
+  The source URL of the MJPEG feed to be proxied.
 
 Options:
 
 - *port*
+
   The destination port. Defaults to `5080`.
 
 ## TODO
