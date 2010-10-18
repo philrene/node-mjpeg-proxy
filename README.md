@@ -37,3 +37,5 @@ Options:
 ## Credits
 
 - Phil Rene ([philrene](http://github.com/philrene))
+
+- Chris Chua ([chrisirhc](http://github.com/chrisirhc))
